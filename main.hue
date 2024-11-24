@@ -1,0 +1,4 @@
+#sample code 
+
+str name = "HUE"
+out(name)
